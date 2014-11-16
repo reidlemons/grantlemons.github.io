@@ -9,4 +9,5 @@ html {
 #header {
   background-color: black;
   color: blue;
+  height: 100px;
 }
