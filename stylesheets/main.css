@@ -4,11 +4,11 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  margin:0px;
 }
 
 #header {
   background-color: black;
   color: blue;
   height: 100px;
-  margin:0px;
 }
