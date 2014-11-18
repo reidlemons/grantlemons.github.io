@@ -11,3 +11,9 @@ html {
   color: blue;
   height: 100px;
 }
+#backgrounds {
+background-color: blue;
+color: black;
+height: 100px;
+width: 100px;
+}
