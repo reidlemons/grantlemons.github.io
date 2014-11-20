@@ -4,7 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin: 0px;
+  <!--margin: 0px;-->
 }
 
 #header {
@@ -23,3 +23,4 @@ color: black;
 height: 100px;
 width: 100px;
 }
+#no-margin {margin: 0px;}
