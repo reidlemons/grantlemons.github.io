@@ -4,10 +4,16 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  <!--margin: 0px;-->
 }
 
 #header {
   background-color: black;
+  margin: 0;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
   color: blue;
   height: 100px;
 }
@@ -17,3 +23,4 @@ color: black;
 height: 100px;
 width: 100px;
 }
+#no-margin {margin: 0px;}
