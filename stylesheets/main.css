@@ -27,3 +27,6 @@ width: 100px;
 #nolan-link {
 color: blue;
 }
+#same-line{
+display:inline-block;
+}
