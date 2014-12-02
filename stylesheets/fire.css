@@ -1,6 +1,9 @@
 html{
-background: brown;
+background: orange;
 }
 #header{
 color: red;
+}
+span{
+color: #996633;
 }
