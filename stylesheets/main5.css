@@ -6,3 +6,8 @@ color:blue;
 #black-stripe{
 background-color:black;
 color:black;}
+a{
+text-decoration: none;
+color: black;
+font-family: Garamond;
+}
