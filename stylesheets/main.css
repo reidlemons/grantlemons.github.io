@@ -31,9 +31,12 @@ display:inline;
 }
 a{
 text-decoration: none;
-color: black;
+color: red;
 font-family: Garamond;
 }
 p{
+color: red;
+}
+h1{
 color: red;
 }
