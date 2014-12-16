@@ -8,8 +8,8 @@ html {
 
 #header {
   background-color: black;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: none;
+  margin-right: none;
   -webkit-margin-before: 0em;
   -webkit-margin-after: 0em;
   -webkit-margin-start: 0px;
