@@ -1,10 +1,17 @@
-html { 
-  background: url('../images/Tfavicon.ico') no-repeat center center fixed #111; 
+/*select whole thing*/
+html {
+  /*background*/
+  background: url('../images/Tfavicon.ico') no-repeat center center fixed #111;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  /*text*/
 text-align: center;
 text-decoration: none;
+}
+/*select text only*/
+p{
+color: green;
 }
 /*1862*/
