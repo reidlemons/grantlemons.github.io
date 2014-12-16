@@ -1,4 +1,4 @@
-/*select whole thing*/
+/*select the whole thing*/
 html {
   /*background*/
   background: url('../images/Tfavicon.ico') no-repeat center center fixed #111;
@@ -8,12 +8,13 @@ html {
   background-size: cover;
   text-align: center;
 }
-/*select text only*/
+/*select only text*/
 p{
 color: green;
 }
+/*select links only*/
 a{
-  /*text decoration*/
+/*text decoration*/
 text-decoration: none;
 }
 /*1862*/
