@@ -6,12 +6,14 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  /*text*/
-text-align: center;
-text-decoration: none;
+  text-align: center;
 }
 /*select text only*/
 p{
 color: green;
+}
+a{
+  /*text decoration*/
+text-decoration: none;
 }
 /*1862*/
