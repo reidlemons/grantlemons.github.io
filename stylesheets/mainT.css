@@ -15,6 +15,7 @@ color: green;
 /*select links only*/
 a{
 /*text decoration*/
+color: teal;
 text-decoration: none;
 font-family: Garamond;
 }
